@@ -15,6 +15,5 @@ Curso sistemas de informação na FIAP e estou explorando diversas áreas da com
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslimb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
- <p align="center">
+
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
-</p>
