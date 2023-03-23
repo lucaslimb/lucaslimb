@@ -13,3 +13,4 @@ Currently I'm attending to Information Systems at FIAP and looking for my favori
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaslimb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+<>
