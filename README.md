@@ -9,7 +9,7 @@ Curso sistemas de informação na FIAP e estou explorando diversas áreas da com
   <a href="http://flowery-steel.yllimab.repl.co/" target="_blank"><img src="https://img.shields.io/badge/Play-0000FF?style=for-the-badge"></a>
 
 ## Minhas stats
-<div>
 <a href="https://github.com/lucaslimb">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslimb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaslimb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=8&theme=algolia"/>
+</a>
