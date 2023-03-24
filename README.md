@@ -1,4 +1,4 @@
-### Hi, I'm Lucas 👋
+## Hi, I'm Lucas 👋
 
 Currently I'm attending to Information Systems at FIAP and looking for my favorite programming language/computing area!
 
