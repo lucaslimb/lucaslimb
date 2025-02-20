@@ -1,6 +1,6 @@
 ## Hi, I'm Lucas 👋
 
-Currently I'm attending to Information Systems at FIAP (4th semester) and looking for my favorite programming language/computing area!
+Currently I'm attending to Information Systems at FIAP (5th semester) and looking for my favorite programming language/computing area!
 
 ## What I've been studying
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="40" height="40"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/flutter/flutter-original.svg" width="40" height="40">
