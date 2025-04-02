@@ -9,3 +9,6 @@ Currently I'm attending to Information Systems at FIAP (5th semester) and lookin
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaslimb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=8&theme=algolia"/>
 </a>
+
+## Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr)
