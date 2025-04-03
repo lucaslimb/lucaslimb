@@ -7,7 +7,7 @@ Currently I'm attending to Information Systems at FIAP (5th semester) and lookin
 ## My stats
 <a href="https://github.com/lucaslimb">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaslimb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=6&theme=algolia"/>
 </a>
 
 ## Links
