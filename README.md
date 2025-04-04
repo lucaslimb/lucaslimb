@@ -1,6 +1,7 @@
 ## Hi, I'm Lucas 👋
 
 Currently, I’m studying Information Systems at FIAP (5th semester) and looking forward to expanding my knowledge in the field!
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr)
 
 ## What I've been studying
