@@ -13,3 +13,6 @@ Currently, I’m studying Information Systems at FIAP (5th semester) and looking
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=6&theme=algolia"/>
 </a>
 
+## Try on my apps!
+
+[![Cinemap](https://img.shields.io/badge/Cinemap-181717?style=for-the-badge&logo=android&logoColor=white&color=4dfed1)](https://github.com/lucaslimb/cinemap/releases/latest)
