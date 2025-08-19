@@ -1,9 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23003366&lines=Hi+there,+I'm+Lucas!;Oi,+eu+sou+o+Lucas!)](https://git.io/typing-svg)
-### Currently in my 6th semester of Information Systems at FIAP, passionate about tech and always exploring new ways to expand my skills and knowledge.
+
+Currently in my 6th semester of Information Systems at FIAP, passionate about tech and always exploring new ways to expand my skills and knowledge.
 
 [![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge)](mailto:lucasdelimabzr@gmail.com)
 
-# Tech stack I've been studying
+## Tech stack I've been studying
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
