@@ -20,7 +20,7 @@ Currently in my 7th semester of Information Systems at FIAP, passionate about te
 
 <a href="https://github.com/lucaslimb">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaslimb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=6&theme=algolia&count_private=true"/>
 </a>
 
 ## Try on my projects!
