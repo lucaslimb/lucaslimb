@@ -27,5 +27,5 @@ Currently in my 7th semester of Information Systems at FIAP while interning as S
 
 [![Cinemap](https://img.shields.io/badge/Cinemap-181717?style=for-the-badge&logo=android&logoColor=white&color=4dfed1)](https://github.com/lucaslimb/cinemap/releases/latest)
 [![InPulse](https://img.shields.io/badge/InPulse-181717?style=for-the-badge&logo=android&logoColor=white&color=00008B)](https://youtu.be/f3g8-9eW2is?si=Ohc9KrtJ0r4ob5XF)
-[![Buildmaker](https://img.shields.io/badge/InPulse-181717?style=for-the-badge&logo=android&logoColor=white&color=00008B)](https://buildmaker.azurewebsites.net)
+[![Buildmaker](https://img.shields.io/badge/Buildmaker-181717?style=for-the-badge&logo=azure&logoColor=white&color=000000)](https://buildmaker.azurewebsites.net)
 
