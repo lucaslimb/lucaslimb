@@ -6,14 +6,11 @@ Currently in my 7th semester of Information Systems at FIAP while interning as S
 
 ## Tech stack I've been studying
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40" height="40">
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/docker/docker-plain.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
@@ -23,9 +20,10 @@ Currently in my 7th semester of Information Systems at FIAP while interning as S
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=6&theme=algolia&count_private=true"/>
 </a>
 
-## Try on my projects!
+## Check out my projects!
 
 [![Cinemap](https://img.shields.io/badge/Cinemap-181717?style=for-the-badge&logo=android&logoColor=white&color=4dfed1)](https://github.com/lucaslimb/cinemap/releases/latest)
 [![InPulse](https://img.shields.io/badge/InPulse-181717?style=for-the-badge&logo=android&logoColor=white&color=00008B)](https://youtu.be/f3g8-9eW2is?si=Ohc9KrtJ0r4ob5XF)
-[![Buildmaker](https://img.shields.io/badge/Buildmaker-181717?style=for-the-badge&logo=azure&logoColor=white&color=000000)](https://buildmaker.azurewebsites.net)
+[![Super Auto Ito](https://img.shields.io/badge/Super_Auto_Ito-181717?style=for-the-badge&logo=android&logoColor=white&color=FFDD88)](https://github.com/lucaslimb/superautoito)
+[![Buildmaker](https://img.shields.io/badge/Buildmaker-181717?style=for-the-badge&logo=azure&logoColor=white&color=000000)](https://www.linkedin.com/posts/lucasdelimabzr_bom-dia-pessoal-neste-s%C3%A1bado-apresentamos-activity-7393633563121790976-K2LN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEGV2RcBp_c3_3GUQySJa3GGQr0p3_pfda4)
 
