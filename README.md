@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23003366&lines=Hi+there,+I'm+Lucas!;Oi,+eu+sou+o+Lucas!)](https://git.io/typing-svg)
 
-Currently in my 7th semester of Information Systems at FIAP, passionate about tech and always exploring new ways to expand my skills and knowledge.
+Currently in my 7th semester of Information Systems at FIAP while interning as Software QA, where I develop frameworks for remote and distributed test automation on complex banking systems. Occasionally building native Android apps and games. Learning C++ while I create VR apps and games. Working on a undergraduate research project about computer vision and music. Big movie enthusiast.
 
 [![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge)](mailto:lucasdelimabzr@gmail.com)
 
@@ -27,4 +27,5 @@ Currently in my 7th semester of Information Systems at FIAP, passionate about te
 
 [![Cinemap](https://img.shields.io/badge/Cinemap-181717?style=for-the-badge&logo=android&logoColor=white&color=4dfed1)](https://github.com/lucaslimb/cinemap/releases/latest)
 [![InPulse](https://img.shields.io/badge/InPulse-181717?style=for-the-badge&logo=android&logoColor=white&color=00008B)](https://youtu.be/f3g8-9eW2is?si=Ohc9KrtJ0r4ob5XF)
+[![Buildmaker](https://img.shields.io/badge/InPulse-181717?style=for-the-badge&logo=android&logoColor=white&color=00008B)](https://buildmaker.azurewebsites.net)
 
