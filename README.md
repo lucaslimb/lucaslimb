@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23003366&lines=Hi+there,+I'm+Lucas!;Oi,+eu+sou+o+Lucas!)](https://git.io/typing-svg)
 
-Currently in my 7th semester of Information Systems at FIAP while interning as Software QA, where I develop frameworks for remote and distributed test automation on complex banking systems. Occasionally building native Android apps and games. Learning C++ while I create VR apps and games. Working on an undergraduate research project about computer vision and music. Big movie enthusiast.
+Currently in my 7th semester of Information Systems at FIAP while interning as Software QA, where I develop frameworks for remote and distributed test automation on complex banking systems. 
+
+Occasionally building native Android apps and games. Learning C++ while I create VR apps. Working on an undergraduate research project about computer vision and music. Exploring AI Agents modeling. Big movie enthusiast.
 
 [![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge)](mailto:lucasdelimabzr@gmail.com)
 
