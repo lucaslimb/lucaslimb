@@ -16,8 +16,8 @@ Currently in my 7th semester of a B.Sc. in Information Systems at FIAP, working 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
 
 <a href="https://github.com/lucaslimb">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lucaslimb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lucaslimb&layout=compact&langs_count=6&theme=algolia&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslimb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimb&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true"/>
 </a>
 
 
