@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23003366&lines=Hi+there,+I'm+Lucas!;Oi,+eu+sou+o+Lucas!)](https://git.io/typing-svg)
 
-Currently in my 7th semester of a B.Sc. in Information Systems at FIAP, working as a Software QA Intern, where I design and develop frameworks for remote and distributed test automation in complex banking environments. Occasionally building native Android apps and games. Learning C++ while I explore VR solutions development. Working on an undergraduate research project about computer vision and music. Exploring AI Agents modeling with MCP tools. Big movie enthusiast.
+Currently in my 7th semester of a B.Sc. in Information Systems at FIAP, working as a Software QA Intern, where I design and develop frameworks for remote and distributed test automation in complex banking environments. Occasionally building native Android apps and games. Starting to learn C++ while I explore VR applications development. Working on an undergraduate research project about computer vision and music. Exploring AI Agents modeling with MCP tools. Big movie enthusiast.
 
 [![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge)](mailto:lucasdelimabzr@gmail.com)
 
 ## Tech stack I've been studying
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/kotlin/kotlin-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
@@ -30,7 +30,8 @@ Currently in my 7th semester of a B.Sc. in Information Systems at FIAP, working 
 
 Project | Description
 ---|---
- [![Emotions Soundtrack](https://img.shields.io/badge/Emotions_Soundtrack-181717?style=for-the-badge&logoColor=white&logo=python&color=00ff55)](https://github.com/lucaslimb/emotions-soundtrack) | A real-time generative soundtrack driven by facial emotion recognition
+[![MP Doom](https://img.shields.io/badge/MP_Doom-0A0A0A?style=for-the-badge&logo=opencv&logoColor=white&color=FF2D00)](https://github.com/lucaslimb/mpdoom) | Hand tracking control for Doom (1993) with MediaPipe
+[![Emotions Soundtrack](https://img.shields.io/badge/Emotions_Soundtrack-181717?style=for-the-badge&logoColor=white&logo=python&color=00ff55)](https://github.com/lucaslimb/emotions-soundtrack) | A real-time generative soundtrack driven by facial emotion recognition
  [![InPulse](https://img.shields.io/badge/InPulse-181717?style=for-the-badge&logo=android&logoColor=white&color=00008B)](https://youtu.be/f3g8-9eW2is?si=Ohc9KrtJ0r4ob5XF) | Native Android app built for Eurofarma with a social media-like structure to foster internal innovation. Features an LLM-powered chatbot, a text classification AI, RestAPI and Web admin dashboard. All developed in-house
  [![Super Auto Ito](https://img.shields.io/badge/Super_Auto_Ito-181717?style=for-the-badge&logo=android&logoColor=white&color=FFDD88)](https://github.com/lucaslimb/superautoito) | Native Android autobattler card game featuring characters from the mangaka's universe. Supports local network PvP and CPU matches. 
  [![Buildmaker](https://img.shields.io/badge/Buildmaker-181717?style=for-the-badge&logo=googlechrome&logoColor=white&color=000000)](https://www.linkedin.com/posts/lucasdelimabzr_bom-dia-pessoal-neste-s%C3%A1bado-apresentamos-activity-7393633563121790976-K2LN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEGV2RcBp_c3_3GUQySJa3GGQr0p3_pfda4) | Web-based RPG character creator powered by generative AI for crafting unique traits and abilities. Pit your characters against others in automated battles — solo or team vs team. 
