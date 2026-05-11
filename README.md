@@ -2,7 +2,9 @@
 
 Currently in my 7th semester of a B.Sc. in Information Systems at FIAP, working as a Software QA Intern, where I design and develop frameworks for remote and distributed test automation in complex banking environments. Occasionally building native Android apps and games. Starting to learn C++ while I explore VR applications development. Working on an undergraduate research project about computer vision and music. Exploring AI, ML and Agentic models. Big cinema enthusiast.
 
-[![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge)](mailto:lucasdelimabzr@gmail.com)
+  <img src="https://fiap-achievements.vercel.app/api/badge?badge=193674&theme=dark" width="100" /><img src="https://fiap-achievements.vercel.app/api/badge?badge=386429&theme=dark" width="100" /><img src="https://fiap-achievements.vercel.app/api/badge?badge=915204&theme=dark" width="100" />
+
+  [![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge)](mailto:lucasdelimabzr@gmail.com)
 
 ## Tech stack I've been studying
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40">
@@ -16,8 +18,8 @@ Currently in my 7th semester of a B.Sc. in Information Systems at FIAP, working 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
 
 <a href="https://github.com/lucaslimb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaslimb&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaslimb&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lucaslimb&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucaslimb&show_icons=true&hide_border=true&layout=compact&count_private=true"/>
 </a>
 
 
