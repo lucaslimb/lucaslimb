@@ -18,8 +18,8 @@ Currently in my 7th semester of a B.Sc. in Information Systems at FIAP, working 
 <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
 
 <a href="https://github.com/lucaslimb">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=lucaslimb&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucaslimb&show_icons=true&hide_border=true&layout=compact&count_private=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=lucaslimb&rank_icon=default&hide_rank=true&hide_border=true&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucaslimb&show_icons=true&hide_border=true&layout=compact&count_private=true&hide_title=true&theme=transparent"/>
 </a>
 
 
