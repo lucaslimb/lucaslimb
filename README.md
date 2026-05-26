@@ -6,10 +6,11 @@ Currently in my 7th semester of a B.Sc. in Information Systems at FIAP, working 
 
   [![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdelimabzr) [![Gmail](https://img.shields.io/badge/gmail-D14836?style=for-the-badge)](mailto:lucasdelimabzr@gmail.com)
 
-## Tech stack I've been studying
+## Tech stack I've been working with
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40"/><img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" height="40"/>
